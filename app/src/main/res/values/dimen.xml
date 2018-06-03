@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Margin for the recyclerview for left bottom right-->
+    <dimen name="margin">35dp</dimen>
+    <!--Margin for the recyclerview top part-->
+    <dimen name="marginTop">15dp</dimen>
+    <!--Card margin-->
+    <dimen name="card">50px</dimen>
+</resources>

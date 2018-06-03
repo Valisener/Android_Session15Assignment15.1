@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--I could just use one color for all of them but in the real world you want to be able to change them easily individually so i did it this way-->
+    <!--Color green for background-->
+    <color name="colorBackgroundGreen">#649900</color>
+    <!--color green for recycler view-->
+    <color name="colorBackgroundRecyclerview">#649900</color>
+    <!--color green for toolbar-->
+    <color name="colorBackgroundToolbar">#649900</color>
+    <!--color green for fab button-->
+    <color name="colorFabBackground">#649900</color>
+</resources>

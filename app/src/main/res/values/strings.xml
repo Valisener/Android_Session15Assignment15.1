@@ -1,0 +1,12 @@
+<resources>
+    <!--App name-->
+    <string name="app_name">Android Versions</string>
+    <!--Search menu text-->
+    <string name="txt_menu_search">Search</string>
+    <!--Settings menu text-->
+    <string name="txt_menu_settings">Settings</string>
+    <!--Add menu textt hat doesnt display itself since it uses an icon-->
+    <string name="txt_menu_add">Add</string>
+    <!--delete menu button that doesnt display itself since it uses an icon-->
+    <string name="txt_menu_delete">Delete</string>
+</resources>
